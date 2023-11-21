@@ -1,0 +1,12 @@
+{ 
+ "produtos": [
+    {
+        "img": "../../assets/oreoo.webp",
+        "nome": "Oreo",
+        "valor": 14.90,
+        "descricao": "Bolacha Oreo",
+        "id": 1
+    }
+ ]
+
+}
